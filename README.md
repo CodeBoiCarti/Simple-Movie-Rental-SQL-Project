@@ -1,5 +1,5 @@
 ```md
-# Movie Rental SQL Project
+Movie Rental SQL Project
 A simple SQL project demonstrating schema design, sample data insertion, and analytical queries for a movie rental store.
 
 
