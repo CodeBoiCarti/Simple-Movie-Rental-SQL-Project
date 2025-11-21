@@ -1,4 +1,3 @@
-```md
 Movie Rental SQL Project
 A simple SQL project demonstrating schema design, sample data insertion, and analytical queries for a movie rental store.
 
@@ -23,3 +22,4 @@ A simple SQL project demonstrating schema design, sample data insertion, and ana
 2. Paste `schema.sql` in the schema panel
 3. Paste `sample_data.sql` and run
 4. Test queries from `queries.sql`
+
